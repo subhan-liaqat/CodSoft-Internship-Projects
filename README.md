@@ -1,1 +1,1 @@
-# CodSoft-Internship-Projects
+# GlowingSoft-Technologies-Internship-Projects
